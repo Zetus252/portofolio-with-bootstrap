@@ -1,0 +1,14 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #77045e;
+}
+
+#projects svg {
+  /* display: block; */
+  position: relative;
+  top: 1px; /* geser sedikit ke bawah */
+}
+
+section{
+    padding-top: 5rem;
+}
